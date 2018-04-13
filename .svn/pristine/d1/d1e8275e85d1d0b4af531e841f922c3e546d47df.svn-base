@@ -1,0 +1,78 @@
+[2016-04-20 09:31:28]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-20 09:31:29]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:31:29]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-20 09:31:29]  INFO (Detail.InDetailServer - openPortCheck:406) - ThreadId:11 - 121.78.239.247 40010 UP!!
+[2016-04-20 09:31:29]  INFO (Detail.InDetailServer - slipCheck:276) - 30
+[2016-04-20 09:31:59]  INFO (Detail.InDetailServer - slipCheck:276) - 30
+[2016-04-20 09:32:29]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:32:29]  INFO (Detail.InDetailServer - slipCheck:276) - 30
+[2016-04-20 09:32:59]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-20 09:32:59]  INFO (Detail.InDetailServer - slipCheck:276) - 30
+[2016-04-20 09:33:51]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-20 09:33:52]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:33:52]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-20 09:33:52]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:33:57]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:02]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:34:02]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:07]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-20 09:34:07]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:12]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:34:12]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:17]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:22]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:34:22]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:27]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-20 09:34:27]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:32]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:34:32]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:37]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:42]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:34:42]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:47]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-20 09:34:47]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:52]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-20 09:34:53]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:34:53]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:34:58]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:03]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:03]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:08]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:08]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:13]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:18]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:18]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:23]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:23]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:28]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:33]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:33]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:38]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:38] DEBUG (Detail.InDetailServer - downCheck:229) - ThreadId:11 - 121.78.239.247 icmp,icmp is DOWN!!
+[2016-04-20 09:35:39]  INFO (startMon.StartMonitor - main:82) - End IP Check.
+[2016-04-20 09:35:51]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-20 09:35:51]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:35:51]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:35:56]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:36:01]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:36:01]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:36:06]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:36:12]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:36:12]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:36:17]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:36:22]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:36:22] DEBUG (Detail.InDetailServer - downCheck:229) - ThreadId:11 - 121.78.239.247 icmp is DOWN!!
+[2016-04-20 09:36:22]  INFO (startMon.StartMonitor - main:82) - End IP Check.
+[2016-04-20 09:37:29]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-20 09:37:30]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:37:30]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:37:33]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:37:35]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:37:35]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:37:38]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:37:40]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:37:40]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:37:43]  INFO (Detail.InDetailServer - slipCheck:276) - 5
+[2016-04-20 09:37:45]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-20 09:37:45] DEBUG (Detail.InDetailServer - downCheck:229) - ThreadId:11 - 121.78.239.247 icmp is DOWN!!
+[2016-04-20 09:37:45]  INFO (startMon.StartMonitor - main:82) - End IP Check.

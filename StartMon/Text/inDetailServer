@@ -1,0 +1,203 @@
+package startMon.Detail;
+
+import java.io.IOException;
+import java.net.InetSocketAddress;
+import java.net.Socket;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+
+import startMon.MysqlConnect;
+import startMon.Status.IpStatusConfig;
+import startMon.Status.MntrConfig;
+
+public class InDetailServer {
+    private static MysqlConnect db;
+    private IpStatusConfig ipInfo;
+    private int icmpCheckNo = 0;
+    private int portCheckNo = 0;
+    private int icmpSlipNo = 0;
+    private int portSlipNo = 0;
+    private int resultNo = 0;
+    private long threadId = 0;
+    private String downPort = null;
+    private String message = null;
+
+    public void detailCheck(long threadId, IpStatusConfig ipInfo) throws InterruptedException, SQLException {
+        this.ipInfo = ipInfo;
+        this.threadId = threadId;
+        db = MysqlConnect.getConn();
+
+        if (!MntrConfig.getAll_check()) {
+            if (ipInfo.getCheck_ICMP()) {
+                // for (int i = 0; i < MntrConfig.getPING_CHECK_COUNT(); i++) {
+                icmpCheck();
+                resultSave(db);
+                // }
+            }
+
+            if (ipInfo.getCheck_port_no() != null) {
+                if (!ipInfo.getCheck_port_no().isEmpty()) {
+                    String[] checkPortNo = ipInfo.getCheck_port_no().split(",");
+                    int totalCheckPortNo = checkPortNo.length;
+                    for (int i = 0; i < totalCheckPortNo; i++) {
+                        switch (checkPortNo[i]) {
+                        case "aws-elastic-ip":
+                            System.out.println("Thread # " + threadId + " portCheck: " + checkPortNo[i] + " pass");
+                            break;
+                        case "aws-route53":
+                            System.out.println("Thread # " + threadId + " portCheck: " + checkPortNo[i] + " pass");
+                            break;
+                        case "http_param":
+                            System.out.println("Thread # " + threadId + " portCheck: " + checkPortNo[i] + " pass");
+                            break;
+                        case "tcp_param":
+                            System.out.println("Thread # " + threadId + " portCheck: " + checkPortNo[i] + " pass");
+                            break;
+                        default:
+                            downPort = portCheck(checkPortNo[i]);
+                            break;
+                        }
+
+                        resultSave(db);
+                    }
+                }
+            }
+        }
+    }
+
+    private void resultSave(MysqlConnect db) throws SQLException {
+        if (icmpCheckNo > 0 || portCheckNo > 0) {
+            System.out.println("Thread # " + threadId + " icmpCheckNo: " + icmpCheckNo + " portCheckNo: " + portCheckNo + " icmpSlipNo: " + icmpSlipNo + " portSlipNo: " + portSlipNo);
+            if (icmpCheckNo > 0) {
+                while (icmpSlipNo < 3) {
+                    resultNo = slipCheck(icmpSlipNo);
+                }
+            }
+
+            if (portCheckNo > 0) {
+                while (portSlipNo < 3) {
+                    resultNo = slipCheck(portSlipNo, downPort);
+                }
+            }
+
+            if (resultNo >= 3) {
+                String updateQuery = "update monitor.ip set calll = '1' where ip = '" + ipInfo.getIp() + "' and rack = '" + ipInfo.getRack() + "'";
+                try {
+                    db.update(updateQuery);
+                    System.out.println("Thread # " + threadId + " updateQuery: " + updateQuery + " OK " + resultNo + " " + message + " OK");
+                } catch (SQLException e) {
+                    // TODO Auto-generated catch block
+                    System.out.println("Thread # " + threadId + " updateQuery: " + updateQuery + " OK " + resultNo + " " + message + " FAIL");
+                    e.printStackTrace();
+                }
+            }
+
+        } else {
+            if (ipInfo.getCalll() > 0) {
+                String updateQuery = "update monitor.ip set calll = '0' where ip = '" + ipInfo.getIp() + "' and rack = '" + ipInfo.getRack() + "'";
+                int result = db.update(updateQuery);
+
+                if (result == 1) {
+                    System.out.println("Thread # " + threadId + " updateQuery: " + updateQuery + " OK");
+                } else {
+                    System.out.println("Thread # " + threadId + " updateQuery: " + updateQuery + " FAIL");
+                }
+            }
+        }
+    }
+
+    private int slipCheck(int slipCount) {
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+        slipCount++;
+        System.out.println("Thread # " + threadId + " STARTSLIP: " + slipCount);
+
+        icmpSlipNo = slipCount;
+        icmpCheck();
+
+        return slipCount;
+    }
+
+    private int slipCheck(int slipCount, String checkPort) {
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+        slipCount++;
+        System.out.println("Thread # " + threadId + " STARTSLIP: " + slipCount);
+
+        portSlipNo = slipCount;
+        portCheck(checkPort);
+
+        return slipCount;
+    }
+
+    private void icmpCheck() {
+        String ipAddress = ipInfo.getIp();
+        // String ipAddress = "1.1.1.1";
+        List<String> sendIcmp = new ArrayList<String>();
+        sendIcmp.add("ping");
+        sendIcmp.add("-n");
+        sendIcmp.add("1");
+        sendIcmp.add("-w");
+        sendIcmp.add("2");
+        sendIcmp.add(ipAddress);
+
+        boolean isReachable = false;
+        try {
+            Process proc = new ProcessBuilder(sendIcmp).start();
+
+            int exitValue = proc.waitFor();
+            if (exitValue == 0) {
+                isReachable = true;
+                System.out.println("Thread # " + threadId + " icmpCheck: OK " + icmpCheckNo);
+                icmpCheckNo = 0;
+            } else {
+                System.out.println("Thread # " + threadId + " icmpCheck: DOWN " + icmpCheckNo);
+                message = "ICMP";
+                icmpCheckNo++;
+            }
+        } catch (IOException e1) {
+            System.out.println(e1.getMessage());
+            e1.printStackTrace();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private String portCheck(String port) {
+        portCheckNo = 0;
+        try {
+            Socket socket = new Socket();
+            socket.connect(new InetSocketAddress(ipInfo.getIp(), Integer.parseInt(port)), 2000);
+            socket.close();
+            System.out.println("Thread # " + threadId + " portCheck: " + port + " OK " + portCheckNo);
+            writeMessage(port);
+            return "공백";
+        } catch (Exception e) {
+            // e.printStackTrace();
+            System.out.println("Thread # " + threadId + " portCheck: " + port + " DOWN " + portCheckNo);
+            portCheckNo++;
+            writeMessage(port);
+            return port;
+        }
+    }
+
+    private void writeMessage(String port) {
+        if (message == null) {
+            message = port;
+        } else {
+            message += ", " + port;
+        }
+    }
+
+}

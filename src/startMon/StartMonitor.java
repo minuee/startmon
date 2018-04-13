@@ -1,0 +1,146 @@
+package startMon;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
+import startMon.Detail.InDetailServer.DownPortInfo;
+import startMon.Runnable.SearchServer;
+import startMon.Status.IpStatusConfig;
+import startMon.Status.MntrConfig;
+
+public class StartMonitor {
+	private static MysqlConnect db;
+	private static ArrayList<IpStatusConfig> ipInfo;
+	public static final Logger logger = Logger.getLogger(StartMonitor.class);
+	
+	public static boolean DEMO_TEST = false;
+	public static final boolean FTP_SOCKET_LOG = false;
+	
+	public static ArrayList<DownPortInfo> downPortInfoArray;
+	
+//	public static final String VERSION = "1.0.1";	//	2017-10-30	코드 확인.
+//	public static final String VERSION = "1.0.2";	//	2017-11-01	리팩토링, 로그 강화 및 성능 개선.
+//	public static final String VERSION = "1.0.3";	//	2017-12-07	장애문자 공백 제거.
+//	public static final String VERSION = "1.0.4";	//	2018-01-18	HTTP 포트 요청에러 추가.
+//	public static final String VERSION = "1.0.5";	//	2018-01-28	HTTP 체크 주석.
+//	public static final String VERSION = "1.0.6";	//	2018-01-28	HTTP 체크 분리.
+//	public static final String VERSION = "1.0.7";	//	2018-02-19  ALL Down SMS 변경.
+	public static final String VERSION = "1.0.8";	//	2018-03-16  SMS중앙변경.
+	public static void main(String[] args) throws InterruptedException, SQLException {
+		// OS가 Windows 일 경우 테스트모드
+		if (System.getProperty("os.name").toLowerCase().startsWith("windows")) {
+			DEMO_TEST = true;
+		}
+		
+		if (args.length > 0) {
+			if (args[0].toLowerCase().equals("-v") ||
+					args[0].toLowerCase().equals("--v") ||
+					args[0].toLowerCase().equals("-version") ||
+					args[0].toLowerCase().equals("--version")) {
+				System.out.println("startMon v " + VERSION);
+				System.out.println();
+				return;
+			}
+		}
+		
+		PropertyConfigurator.configure("conf/log4j.properties");
+		downPortInfoArray = new ArrayList<DownPortInfo>();
+		
+		if (DEMO_TEST) {
+			logger.info("startMon DEMO Version...");
+		}
+		
+		logger.info("Start IP Check By.Noh");
+		long startTime = System.currentTimeMillis();
+		db = MysqlConnect.getConn();
+
+		// 모니터링 설정 확인.
+		String queryMntr = "select * from monitor.mntr_config";
+		ResultSet rsMntr = db.query(queryMntr);
+		while (rsMntr.next()) {
+			MntrConfig mntrConfig = new MntrConfig();
+			mntrConfig.setRefresh(rsMntr.getInt("refresh"));
+			mntrConfig.setSlip_time(rsMntr.getInt("slip_time"));
+			mntrConfig.setDebug(rsMntr.getBoolean("debug"));
+			mntrConfig.setDebug_admin_mail(rsMntr.getBoolean("debug_admin_mail"));
+			mntrConfig.setDebug_admin_sms(rsMntr.getBoolean("debug_admin_sms"));
+			mntrConfig.setReceiverNo(rsMntr.getString("receiverNo"));
+			mntrConfig.setAll_check(rsMntr.getBoolean("all_check"));
+			mntrConfig.setRecovery_check(rsMntr.getBoolean("recovery_check"));
+			mntrConfig.setMAILTO(rsMntr.getString("MAILTO"));
+			mntrConfig.setPING_CHECK_COUNT(rsMntr.getInt("PING_CHECK_COUNT"));
+			mntrConfig.setPORT_CHECK_COUNT(rsMntr.getInt("PORT_CHECK_COUNT"));
+			mntrConfig.setSLIP_CHECK_COUNT(rsMntr.getInt("SLIP_CHECK_COUNT"));
+			mntrConfig.setLOAD_CHECK_COUNT(rsMntr.getInt("LOAD_CHECK_COUNT"));
+			mntrConfig.setUptime(rsMntr.getInt("uptime"));
+		}
+
+		// 모니터링 대상 확인.
+		String queryRack = "select * from monitor.ip";
+
+		// 테스트 코드
+		if (DEMO_TEST && System.getProperty("os.name").toLowerCase().startsWith("windows")) {
+			queryRack += " where ip in ('121.78.247.44', '1.201.144.164', '121.78.248.17', '1.201.144.168', '121.78.238.198', '121.78.235.218')";
+		}
+		
+		ResultSet rsIp = db.query(queryRack);
+		ipInfo = new ArrayList<IpStatusConfig>();
+		while (rsIp.next()) {
+			IpStatusConfig ipStatusConfig = new IpStatusConfig();
+			ipStatusConfig.setIp(rsIp.getString("ip"));
+			ipStatusConfig.setIdx(rsIp.getInt("idx"));
+			ipStatusConfig.setService_status(rsIp.getString("service_status"));
+			ipStatusConfig.setRack(rsIp.getString("rack"));
+			ipStatusConfig.setSw(rsIp.getString("sw"));
+			ipStatusConfig.setPort(rsIp.getString("port"));
+			ipStatusConfig.setMonitoring_check(rsIp.getBoolean("monitoring_check"));
+			ipStatusConfig.setCalll(rsIp.getInt("calll"));
+			ipStatusConfig.setCheck_port_no(rsIp.getString("check_port_no"));
+			ipStatusConfig.setCheck_ICMP(rsIp.getBoolean("check_ICMP"));
+			ipStatusConfig.setCheck_pv_ICMP(rsIp.getBoolean("check_pv_ICMP"));
+			ipStatusConfig.setIp_pv(rsIp.getString("ip_pv"));
+			ipStatusConfig.setDown_port_no(rsIp.getString("down_port_no"));
+			ipStatusConfig.setLoad_cnt(rsIp.getInt("load_cnt"));
+			ipInfo.add(ipStatusConfig);
+		}
+
+		// 모니터링 대상의 수만큼 쓰레드 생성 및 모니터링 작업 시작
+		logger.info(ipInfo.size() + " ip detected.");
+		ArrayList<Thread> threadList = new ArrayList<Thread>();
+		for (int i = 0; i < ipInfo.size(); i++) {
+			Thread checkThread = new Thread(new SearchServer(ipInfo.get(i)));
+			checkThread.start();
+			threadList.add(checkThread);
+		}
+
+		// 모든 쓰레드 종료까지 대기
+		for (Thread t : threadList) {
+			t.join();
+		}
+		
+		db.close();
+		long elapsedTime = System.currentTimeMillis() - startTime;
+		String elapsed = String.format("%02d:%02d:%02d",
+				TimeUnit.MILLISECONDS.toHours(elapsedTime),
+				TimeUnit.MILLISECONDS.toMinutes(elapsedTime) -
+				TimeUnit.HOURS.toMinutes(TimeUnit.MILLISECONDS.toHours(elapsedTime)),
+				TimeUnit.MILLISECONDS.toSeconds(elapsedTime) -
+				TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(elapsedTime)));
+		logger.info("End IP Check By Noh, Elapsed: " + elapsed);
+		
+		if (downPortInfoArray.size() > 0) {
+			logger.info("┌─────────────────┬─────────┬─────┐");
+			logger.info("|       IP        │   PORT  │ CNT |");
+			logger.info("├─────────────────┼─────────┼─────┤");
+			for (int i = 0; i < downPortInfoArray.size(); i++) {
+				logger.info("│ " + String.format("%-15s", downPortInfoArray.get(i).getIpAddress()) + " │ " + String.format("%-7s", downPortInfoArray.get(i).getPort()) + " │  " + String.format("%d", downPortInfoArray.get(i).getDownCnt()) + "  │");
+			}
+			logger.info("└─────────────────┴─────────┴─────┘");
+		}
+	}
+}

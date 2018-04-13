@@ -1,0 +1,145 @@
+[2016-04-07 14:39:40]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 14:39:57]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 14:39:58]  INFO (Detail.InDetailServer - icmpCheck:345) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-07 14:39:58]  INFO (Detail.InDetailServer - icmpCheck:345) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-07 14:39:58]  INFO (Detail.InDetailServer - checkFtp:466) - ThreadId:11 - 121.78.239.247 ftp filedownload OK!!
+[2016-04-07 14:39:58]  INFO (Detail.InDetailServer - openPortCheck:405) - ThreadId:11 - 121.78.239.247 9021 UP!!
+[2016-04-07 14:40:58]  INFO (Detail.InDetailServer - icmpCheck:345) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-07 14:41:46]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 14:41:47]  INFO (Detail.InDetailServer - icmpCheck:337) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 14:41:47]  INFO (Detail.InDetailServer - icmpCheck:345) - ThreadId:11 - 121.78.239.247 icmp_pv DOWN!!
+[2016-04-07 14:41:48]  INFO (Detail.InDetailServer - checkFtp:452) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 14:41:48]  INFO (Detail.InDetailServer - checkFtp:476) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 14:42:38]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 14:42:38]  INFO (Detail.InDetailServer - icmpCheck:337) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 14:42:39]  INFO (Detail.InDetailServer - checkFtp:452) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 14:42:39]  INFO (Detail.InDetailServer - checkFtp:476) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 14:42:44] DEBUG (Detail.InDetailServer - downCheck:230) - ThreadId:11 - 121.78.239.247 ftp,ftp,9021 is DOWN!!
+[2016-04-07 14:42:44]  INFO (startMon.StartMonitor - main:80) - End IP Check.
+[2016-04-07 16:24:32]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:24:33]  INFO (Detail.InDetailServer - icmpCheck:341) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:24:34]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:24:34]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:27:36]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:27:36]  INFO (Detail.InDetailServer - icmpCheck:341) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:27:37]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:27:37]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:27:40]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:27:40]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:27:41]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:27:41]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:27:49]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:27:49]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:27:50]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:27:50]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:28:01]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:28:01]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:28:02]  INFO (Detail.InDetailServer - checkFtp:458) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:28:02]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:33:00]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:33:00]  INFO (Detail.InDetailServer - icmpCheck:341) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:33:01]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:33:01]  INFO (Detail.InDetailServer - checkFtp:486) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:33:04]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:33:04]  INFO (Detail.InDetailServer - checkFtp:486) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:33:05]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:33:05]  INFO (Detail.InDetailServer - checkFtp:486) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:33:12]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:33:12]  INFO (Detail.InDetailServer - checkFtp:486) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:33:13]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:33:13]  INFO (Detail.InDetailServer - checkFtp:486) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:37:15]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:37:16]  INFO (Detail.InDetailServer - icmpCheck:337) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:37:17]  INFO (Detail.InDetailServer - checkFtp:456) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:37:17]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:37:20]  INFO (Detail.InDetailServer - checkFtp:456) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:37:20]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:37:21]  INFO (Detail.InDetailServer - checkFtp:456) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:37:21]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:37:24]  INFO (Detail.InDetailServer - checkFtp:456) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:37:24]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:37:25]  INFO (Detail.InDetailServer - checkFtp:456) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:37:25]  INFO (Detail.InDetailServer - checkFtp:482) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:32]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:39:33]  INFO (Detail.InDetailServer - icmpCheck:339) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:39:33]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:34]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:34]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:35]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:39:36]  INFO (Detail.InDetailServer - slipCheck:287) - 1
+[2016-04-07 16:39:36]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:39:36]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:37]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:37]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:37]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:39:37]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:38]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:38]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:39]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:39:40]  INFO (Detail.InDetailServer - slipCheck:287) - 2
+[2016-04-07 16:39:40]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:39:40]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:41]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:41]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:41]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:39:41]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:42]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:42]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:43]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:39:44]  INFO (Detail.InDetailServer - slipCheck:287) - 3
+[2016-04-07 16:39:44]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:39:44]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:45]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:45]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:45]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:39:45]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:39:46]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:39:46]  INFO (Detail.InDetailServer - checkFtp:485) - ThreadId:11 - 121.78.239.247 ftp filedownload FAIL!!
+[2016-04-07 16:39:47] DEBUG (Detail.InDetailServer - downCheck:230) - ThreadId:11 - 121.78.239.247 ftp,ftp,9021 is DOWN!!
+[2016-04-07 16:39:47]  INFO (startMon.StartMonitor - main:80) - End IP Check.
+[2016-04-07 16:46:53]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:46:53]  INFO (Detail.InDetailServer - icmpCheck:339) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:46:53]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:46:54]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:46:55]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:46:56]  INFO (Detail.InDetailServer - slipCheck:287) - 1
+[2016-04-07 16:46:56]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:46:56]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:46:57]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:46:58]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:46:59]  INFO (Detail.InDetailServer - slipCheck:287) - 2
+[2016-04-07 16:46:59]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:46:59]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:47:00]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:47:01]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:47:02]  INFO (Detail.InDetailServer - slipCheck:287) - 3
+[2016-04-07 16:47:02]  INFO (Detail.InDetailServer - portCheck:392) - portCheck()
+[2016-04-07 16:47:02]  INFO (Detail.InDetailServer - checkFtp:447) - checkFtp()
+[2016-04-07 16:47:03]  INFO (Detail.InDetailServer - checkFtp:459) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:47:04] DEBUG (Detail.InDetailServer - downCheck:230) - ThreadId:11 - 121.78.239.247 ftp,9021 is DOWN!!
+[2016-04-07 16:47:05]  INFO (startMon.StartMonitor - main:80) - End IP Check.
+[2016-04-07 16:48:55]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:48:55]  INFO (Detail.InDetailServer - icmpCheck:339) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:48:55]  INFO (startMon.StartMonitor - main:80) - End IP Check.
+[2016-04-07 16:49:40]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-07 16:49:40]  INFO (Detail.InDetailServer - icmpCheck:339) - ThreadId:11 - 121.78.239.247 icmp UP!!
+[2016-04-07 16:49:40]  INFO (Detail.InDetailServer - checkFtp:448) - checkFtp()
+[2016-04-07 16:49:41]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:49:41]  INFO (Detail.InDetailServer - portCheck:382) - 9021
+[2016-04-07 16:49:42]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:49:43]  INFO (Detail.InDetailServer - slipCheck:287) - 1
+[2016-04-07 16:49:43]  INFO (Detail.InDetailServer - portCheck:393) - portCheck()
+[2016-04-07 16:49:43]  INFO (Detail.InDetailServer - checkFtp:448) - checkFtp()
+[2016-04-07 16:49:44]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:49:45]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:49:46]  INFO (Detail.InDetailServer - slipCheck:287) - 2
+[2016-04-07 16:49:46]  INFO (Detail.InDetailServer - portCheck:393) - portCheck()
+[2016-04-07 16:49:46]  INFO (Detail.InDetailServer - checkFtp:448) - checkFtp()
+[2016-04-07 16:49:47]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:49:48]  INFO (Detail.InDetailServer - slipCheck:276) - slipCheck()
+[2016-04-07 16:49:49]  INFO (Detail.InDetailServer - slipCheck:287) - 3
+[2016-04-07 16:49:49]  INFO (Detail.InDetailServer - portCheck:393) - portCheck()
+[2016-04-07 16:49:49]  INFO (Detail.InDetailServer - checkFtp:448) - checkFtp()
+[2016-04-07 16:49:50]  INFO (Detail.InDetailServer - checkFtp:460) - ThreadId:11 - 121.78.239.247 ftp connect Fail!!
+[2016-04-07 16:49:51] DEBUG (Detail.InDetailServer - downCheck:230) - ThreadId:11 - 121.78.239.247 ftp,9021 is DOWN!!
+[2016-04-07 16:49:51]  INFO (startMon.StartMonitor - main:80) - End IP Check.

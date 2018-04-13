@@ -1,0 +1,5 @@
+[2016-04-12 13:23:21]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-12 13:23:37]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-12 13:23:38]  INFO (Detail.InDetailServer - icmpCheck:344) - ThreadId:11 - 121.78.239.247 icmp DOWN!!
+[2016-04-12 13:23:55]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-04-12 13:23:56]  INFO (startMon.StartMonitor - main:81) - End IP Check.

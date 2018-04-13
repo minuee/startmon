@@ -1,0 +1,48 @@
+package startMon;
+
+import java.util.ArrayList;
+
+import startMon.Runnable.SearchServer;
+import startMon.Status.IpStatusConfig;
+
+public class StartMonitor {
+    private QueryToSql setQuery;
+
+    public static void main(String[] args) throws InterruptedException {
+        System.out.println("Start IP Check.");
+        QueryToSql setQuery = new QueryToSql();
+
+        // mntrConfig
+        String queryMntr = "select * from monitor.mntr_config";
+        setQuery.getDataInfo(queryMntr, "main", 0);
+
+        // ipInfo
+        // String queryRack =
+        // "select * from monitor_kgrid.ip where ip = '52.79.103.69'";
+        String queryRack = "select * from monitor.ip";
+        @SuppressWarnings("unchecked")
+        ArrayList<IpStatusConfig> ipInfo = (ArrayList<IpStatusConfig>) setQuery.getDataInfo(queryRack, "main", 1);
+        ArrayList<Thread> threadList = new ArrayList<Thread>();
+
+        for (int i = 0; i < ipInfo.size(); i++) {
+            // for (int i = 0; i < 1; i++) {
+            Thread Check = new Thread(new SearchServer(ipInfo.get(i)));
+            Check.start();
+            threadList.add(Check);
+            // Check.sleep(1000);
+            // System.out.println("i: " + i);
+        }
+
+        // if thread ended -> mainMethod die
+        for (Thread t : threadList) {
+            t.join();
+        }
+
+        System.out.println("End IP Check.");
+
+    }
+}
+
+
+
+

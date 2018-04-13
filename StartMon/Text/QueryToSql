@@ -1,0 +1,176 @@
+package startMon;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+
+import startMon.Status.IpStatusConfig;
+import startMon.Status.MntrConfig;
+
+public class QueryToSql {
+    private ArrayList<IpStatusConfig> dataArray;
+    private String query;
+    private String hostname;
+    private int queryType;
+
+    private static Connection connect = null;
+    private static Statement statement = null;
+    private static ResultSet resultSet = null;
+
+    public Object getDataInfo(String query, String hostname, int queryType) {
+        this.query = query;
+        this.hostname = hostname;
+        this.queryType = queryType;
+
+        try {
+            statement = connSqlServer();
+            resultSet = statement.executeQuery(query);
+            if (statement.execute(query)) {
+                resultSet = statement.getResultSet();
+            }
+            // running SQL
+            selectQuery(resultSet);
+        } catch (SQLException sqex) {
+            System.out.println("SQLException: " + sqex.getMessage());
+            System.out.println("SQLState: " + sqex.getSQLState());
+        } finally {
+            close();
+        }
+
+        return dataArray;
+    }
+
+    public int setDataInfo(String query, String hostname, int queryType) {
+        this.query = query;
+        this.hostname = hostname;
+        this.queryType = queryType;
+        int result = 0;
+
+        try {
+            statement = connSqlServer();
+            result = statement.executeUpdate(query);
+        } catch (SQLException sqex) {
+            System.out.println("SQLException: " + sqex.getMessage());
+            System.out.println("SQLState: " + sqex.getSQLState());
+        } finally {
+            close();
+        }
+
+        return result;
+    }
+
+    private java.sql.Statement connSqlServer() {
+        switch (hostname) {
+        case "main":
+            try {
+                connect = DriverManager.getConnection("jdbc:mysql://121.78.239.245", "jsm", "tlfkthsl");
+            } catch (SQLException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+            break;
+        case "pdns":
+
+            break;
+        }
+
+        try {
+            statement = connect.createStatement();
+        } catch (SQLException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+        return statement;
+    }
+
+    private void selectQuery(ResultSet rs) {
+        dataArray = new ArrayList<IpStatusConfig>();
+        switch (hostname) {
+        case "main":
+            switch (queryType) {
+            case 0:
+                try {
+                    while (rs.next()) {
+                        MntrConfig mntrConfig = new MntrConfig();
+                        MntrConfig.setRefresh(rs.getInt("refresh"));
+                        MntrConfig.setDebug(rs.getBoolean("debug"));
+                        MntrConfig.setDebug_admin_mail(rs.getBoolean("debug_admin_mail"));
+                        MntrConfig.setDebug_admin_sms(rs.getBoolean("debug_admin_sms"));
+                        MntrConfig.setReceiverNo(rs.getString("receiverNo"));
+                        MntrConfig.setAll_check(rs.getBoolean("all_check"));
+                        MntrConfig.setRecovery_check(rs.getBoolean("recovery_check"));
+                        MntrConfig.setMAILTO(rs.getString("MAILTO"));
+                        MntrConfig.setPING_CHECK_COUNT(rs.getInt("PING_CHECK_COUNT"));
+                        MntrConfig.setPORT_CHECK_COUNT(rs.getInt("PORT_CHECK_COUNT"));
+
+                        // System.out.println("ip: " + mntrConfig.getRefresh());
+                    }
+                } catch (SQLException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+                break;
+            case 1:
+                try {
+                    while (rs.next()) {
+                        IpStatusConfig ipStatusConfig = new IpStatusConfig();
+
+                        ipStatusConfig.setIp(rs.getString("ip"));
+                        ipStatusConfig.setIdx(rs.getString("idx"));
+                        ipStatusConfig.setService_status(rs.getString("service_status"));
+                        ipStatusConfig.setRack(rs.getString("rack"));
+                        ipStatusConfig.setSw(rs.getString("sw"));
+                        ipStatusConfig.setPort(rs.getString("port"));
+                        ipStatusConfig.setMonitoring_check(rs.getString("monitoring_check"));
+                        ipStatusConfig.setCalll(rs.getInt("calll"));
+                        ipStatusConfig.setCheck_port_no(rs.getString("check_port_no"));
+                        ipStatusConfig.setCheck_ICMP(rs.getBoolean("check_ICMP"));
+                        ipStatusConfig.setIp_pv(rs.getString("ip_pv"));
+                        // ipStatusConfig.setPct(rs.getString("pct"));
+                        // ipStatusConfig.setRelay(rs.getString("relay"));
+                        ipStatusConfig.setDown_port_no(rs.getString("down_port_no"));
+                        // ipStatusConfig.setDomain(rs.getString("domain"));
+                        // System.out.println("ip222: " +
+                        // ipStatusConfig.getIp());
+                        dataArray.add(ipStatusConfig);
+                    }
+                } catch (SQLException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+                break;
+            case 2:
+
+                break;
+            }
+            break;
+
+        case "pcntl":
+
+            break;
+        }
+    }
+
+    private void close() {
+        try {
+            if (resultSet != null) {
+                resultSet.close();
+            }
+            if (statement != null) {
+                statement.close();
+            }
+            if (connect != null) {
+                connect.close();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            System.out.println("updateQuery: close");
+        }
+    }
+
+}

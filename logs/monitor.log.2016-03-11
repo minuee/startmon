@@ -1,0 +1,1069 @@
+[2016-03-11 10:48:30]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 10:48:30]  INFO (Detail.InDetailServer - dbUpdate:319) - 
+[2016-03-11 10:48:32]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-11 10:48:32]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-11 10:48:32]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv
+[2016-03-11 10:48:32]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv//icmp_pv
+[2016-03-11 10:48:32]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 10:49:50]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 10:49:51]  INFO (Detail.InDetailServer - icmpCheck:191) - check icmp
+[2016-03-11 10:49:51]  INFO (Detail.InDetailServer - icmpCheck:191) - check icmp_pv
+[2016-03-11 10:49:51]  INFO (Detail.InDetailServer - dbUpdate:321) - icmp_pv
+[2016-03-11 10:49:51]  INFO (Detail.InDetailServer - icmpCheck:191) - check icmp_pv
+[2016-03-11 10:49:51]  INFO (Detail.InDetailServer - icmpCheck:191) - check icmp_pv
+[2016-03-11 10:49:52]  INFO (Detail.InDetailServer - icmpCheck:191) - check icmp_pv
+[2016-03-11 10:49:52]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-11 10:49:52]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv
+[2016-03-11 10:49:52]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv//icmp_pv
+[2016-03-11 10:49:53]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 10:50:31]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 10:50:31]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp
+[2016-03-11 10:50:31]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - dbUpdate:322) - 
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - slipCheck:151) - 0
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - slipCheck:151) - 0
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - slipCheck:151) - 0
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - slipCheck:151) - 0
+[2016-03-11 10:50:32]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:50:33]  INFO (Detail.InDetailServer - slipCheck:151) - 0
+[2016-03-11 10:50:33]  INFO (Detail.InDetailServer - slipCheck:151) - 0
+[2016-03-11 10:50:33]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:50:33]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-11 10:50:33]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv
+[2016-03-11 10:50:33]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv//icmp_pv
+[2016-03-11 10:50:33]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 10:51:12]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 10:51:12]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp
+[2016-03-11 10:51:12]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:51:12]  INFO (Detail.InDetailServer - dbUpdate:322) - icmp_pv
+[2016-03-11 10:51:12]  INFO (Detail.InDetailServer - slipCheck:151) - 30
+[2016-03-11 10:51:42]  INFO (Detail.InDetailServer - slipCheck:151) - 30
+[2016-03-11 10:52:12]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:52:13]  INFO (Detail.InDetailServer - slipCheck:151) - 30
+[2016-03-11 10:52:43]  INFO (Detail.InDetailServer - slipCheck:151) - 30
+[2016-03-11 10:53:13]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:53:13]  INFO (Detail.InDetailServer - slipCheck:151) - 30
+[2016-03-11 10:53:43]  INFO (Detail.InDetailServer - slipCheck:151) - 30
+[2016-03-11 10:54:13]  INFO (Detail.InDetailServer - icmpCheck:192) - check icmp_pv
+[2016-03-11 10:54:14]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-11 10:54:14]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv
+[2016-03-11 10:54:14]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv//icmp_pv
+[2016-03-11 10:54:14]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 10:56:58]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 10:56:58]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp
+[2016-03-11 10:56:58]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv
+[2016-03-11 10:56:58]  INFO (Detail.InDetailServer - openPortCheck:269) - 121.78.239.242 40010 check
+[2016-03-11 10:56:58]  INFO (Detail.InDetailServer - openPortCheck:269) - 121.78.239.242 80 check
+[2016-03-11 10:56:58]  INFO (Detail.InDetailServer - dbUpdate:323) - 121.78.239.242 nullUP!!
+[2016-03-11 10:56:58]  INFO (Detail.InDetailServer - dbUpdate:324) - 121.78.239.242 null DOWN!!
+[2016-03-11 10:57:58]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv
+[2016-03-11 10:58:59]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv
+[2016-03-11 10:59:59]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv
+[2016-03-11 11:00:00]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 11:03:16]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 11:03:17]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp check
+[2016-03-11 11:03:17]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv check
+[2016-03-11 11:03:17]  INFO (Detail.InDetailServer - openPortCheck:269) - 121.78.239.242 40010 check
+[2016-03-11 11:03:17]  INFO (Detail.InDetailServer - openPortCheck:275) - 121.78.239.242 40010 UP!!
+[2016-03-11 11:03:17]  INFO (Detail.InDetailServer - openPortCheck:269) - 121.78.239.242 80 check
+[2016-03-11 11:03:17]  INFO (Detail.InDetailServer - openPortCheck:275) - 121.78.239.242 80 UP!!
+[2016-03-11 11:03:17]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 11:03:35]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 11:03:35]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp check
+[2016-03-11 11:03:35]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv check
+[2016-03-11 11:03:35]  INFO (Detail.InDetailServer - openPortCheck:269) - 121.78.239.242 40010 check
+[2016-03-11 11:03:35]  INFO (Detail.InDetailServer - openPortCheck:275) - 121.78.239.242 40010 UP!!
+[2016-03-11 11:03:35]  INFO (Detail.InDetailServer - openPortCheck:269) - 121.78.239.242 80 check
+[2016-03-11 11:03:35]  INFO (Detail.InDetailServer - openPortCheck:275) - 121.78.239.242 80 UP!!
+[2016-03-11 11:03:37]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv check
+[2016-03-11 11:03:40]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv check
+[2016-03-11 11:03:42]  INFO (Detail.InDetailServer - icmpCheck:193) - check icmp_pv check
+[2016-03-11 11:03:43]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 11:06:50]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 11:06:51]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 11:07:14]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 11:07:15]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp check
+[2016-03-11 11:07:15]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:07:15]  INFO (Detail.InDetailServer - openPortCheck:267) - 121.78.239.242 40010 check
+[2016-03-11 11:07:15]  INFO (Detail.InDetailServer - openPortCheck:273) - 121.78.239.242 40010 UP!!
+[2016-03-11 11:07:15]  INFO (Detail.InDetailServer - openPortCheck:267) - 121.78.239.242 80 check
+[2016-03-11 11:07:15]  INFO (Detail.InDetailServer - openPortCheck:273) - 121.78.239.242 80 UP!!
+[2016-03-11 11:07:17]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:07:19]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:07:22]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:07:22]  INFO (Detail.InDetailServer - detailCheck:115) - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 11:07:22]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 11:07:59]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp check
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - icmpCheck:211) - 121.78.239.242check icmp UP!!
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - openPortCheck:267) - 121.78.239.242 40010 check
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - openPortCheck:273) - 121.78.239.242 40010 UP!!
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - openPortCheck:267) - 121.78.239.242 80 check
+[2016-03-11 11:08:00]  INFO (Detail.InDetailServer - openPortCheck:273) - 121.78.239.242 80 UP!!
+[2016-03-11 11:08:02]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:08:04]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:08:07]  INFO (Detail.InDetailServer - icmpCheck:191) - 121.78.239.242check icmp_pv check
+[2016-03-11 11:08:07]  INFO (Detail.InDetailServer - detailCheck:115) - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 11:08:07]  INFO (startMon.StartMonitor - main:78) - End IP Check.
+[2016-03-11 14:49:52]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 14:49:53]  INFO (Detail.InDetailServer - icmpCheck:217) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 14:49:53]  INFO (Detail.InDetailServer - icmpCheck:225) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:49:53]  INFO (Detail.InDetailServer - openPortCheck:282) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 14:49:53]  INFO (Detail.InDetailServer - openPortCheck:282) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 14:50:53]  INFO (Detail.InDetailServer - icmpCheck:225) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:51:49]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 14:51:50]  INFO (Detail.InDetailServer - icmpCheck:213) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 14:51:50]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:51:50]  INFO (Detail.InDetailServer - openPortCheck:278) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 14:51:50]  INFO (Detail.InDetailServer - openPortCheck:278) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 14:51:54]  INFO (Detail.InDetailServer - icmpCheck:225) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:52:50]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:52:54]  INFO (Detail.InDetailServer - icmpCheck:225) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:52:54]  INFO (Detail.InDetailServer - downCheck:122) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:52:55]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 14:53:51]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:54:51]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:54:51]  INFO (Detail.InDetailServer - downCheck:118) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:54:51]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 14:58:26]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 14:58:26]  INFO (Detail.InDetailServer - icmpCheck:213) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 14:58:26]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 14:58:26]  INFO (Detail.InDetailServer - openPortCheck:278) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 14:58:26]  INFO (Detail.InDetailServer - openPortCheck:278) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 14:59:27]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:00:27]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:01:28]  INFO (Detail.InDetailServer - icmpCheck:221) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:01:28]  INFO (Detail.InDetailServer - downCheck:118) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:01:28]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 15:05:07]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 15:05:07]  INFO (Detail.InDetailServer - icmpCheck:272) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 15:05:07]  INFO (Detail.InDetailServer - icmpCheck:280) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:05:07]  INFO (Detail.InDetailServer - openPortCheck:337) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 15:05:07]  INFO (Detail.InDetailServer - openPortCheck:337) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 15:06:08]  INFO (Detail.InDetailServer - icmpCheck:280) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:07:08]  INFO (Detail.InDetailServer - icmpCheck:280) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:08:09]  INFO (Detail.InDetailServer - icmpCheck:280) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:08:09]  INFO (Detail.InDetailServer - downCheck:173) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:08:09]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 15:09:37]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 15:09:37]  INFO (Detail.InDetailServer - icmpCheck:268) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 15:09:37]  INFO (Detail.InDetailServer - icmpCheck:276) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:09:37]  INFO (Detail.InDetailServer - openPortCheck:331) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 15:09:37]  INFO (Detail.InDetailServer - openPortCheck:331) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 15:10:38]  INFO (Detail.InDetailServer - icmpCheck:276) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:11:38]  INFO (Detail.InDetailServer - icmpCheck:276) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:12:39]  INFO (Detail.InDetailServer - icmpCheck:276) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 15:12:39]  INFO (Detail.InDetailServer - downCheck:172) - ThreadId:11 - 121.78.239.242 icmp_pvRESULT is DOWN!!
+[2016-03-11 15:12:39]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 16:40:28]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - icmpCheck:279) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - icmpCheck:279) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - icmpCheck:279) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - openPortCheck:342) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - openPortCheck:342) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - openPortCheck:342) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - openPortCheck:342) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - openPortCheck:342) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 16:40:29]  INFO (Detail.InDetailServer - openPortCheck:342) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 16:41:30]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 16:41:30]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 16:41:30]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 16:42:30]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 16:42:30]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 16:42:30]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 16:43:31]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 16:43:31]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 16:43:31]  INFO (Detail.InDetailServer - icmpCheck:287) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 16:43:31]  INFO (Detail.InDetailServer - downCheck:183) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 16:43:31]  INFO (Detail.InDetailServer - downCheck:183) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 16:43:31]  INFO (Detail.InDetailServer - downCheck:183) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 16:43:31]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 16:58:51]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 16:58:52]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 16:59:16]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 16:59:18]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:05:13]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:05:14]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:06:07]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:06:08]  INFO (Detail.InDetailServer - getLoadInfo:72) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.39
+[2016-03-11 17:06:08]  INFO (Detail.InDetailServer - getLoadInfo:72) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.64
+[2016-03-11 17:06:08]  INFO (Detail.InDetailServer - getLoadInfo:72) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.93
+[2016-03-11 17:06:08]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:06:49]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:06:50]  INFO (Detail.InDetailServer - getLoadInfo:73) -  0.66
+[2016-03-11 17:06:50]  INFO (Detail.InDetailServer - getLoadInfo:73) -  1.57
+[2016-03-11 17:06:50]  INFO (Detail.InDetailServer - getLoadInfo:73) -  1.00
+[2016-03-11 17:06:50]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:13:49]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - icmpCheck:283) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - icmpCheck:283) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - icmpCheck:283) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:13:50]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:14:47]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - icmpCheck:283) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - icmpCheck:283) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - icmpCheck:283) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:14:48]  INFO (Detail.InDetailServer - openPortCheck:346) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:15:49]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:15:49]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:15:49]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:16:49]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:16:49]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:16:49]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:17:50]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:17:50]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:17:50]  INFO (Detail.InDetailServer - icmpCheck:291) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:17:50]  INFO (Detail.InDetailServer - downCheck:187) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:17:50]  INFO (Detail.InDetailServer - downCheck:187) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:17:50]  INFO (Detail.InDetailServer - downCheck:187) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:17:50]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:19:50]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:19:51]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:20:45]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:20:46]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:22:03]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:22:04]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:23:31]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:23:32]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:24:35]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:24:36]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:25:56]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:25:56]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.12
+[2016-03-11 17:25:56]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.61
+[2016-03-11 17:25:56]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:25:56]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.79
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:25:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:25:59]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:25:59]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:25:59]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:26:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:26:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:26:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:26:04]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:26:04]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:26:04]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:26:05]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:26:35]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:26:35]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.55
+[2016-03-11 17:26:35]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.91
+[2016-03-11 17:26:35]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:26:35]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:26:35]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.75
+[2016-03-11 17:26:35]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:26:36]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:26:38]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:38]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:26:38]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:26:41]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:26:41]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:26:41]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:26:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:26:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:26:43]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:26:43]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:26:43]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:26:43]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:27:18]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:27:18]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.97
+[2016-03-11 17:27:18]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.53
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.68
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:27:19]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:27:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:27:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:27:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:27:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:27:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:27:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:27:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:27:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:27:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:27:26]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:27:26]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:27:26]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:27:27]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:29:05]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:29:05]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.92
+[2016-03-11 17:29:05]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.62
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.55
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:29:06]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:29:08]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:29:08]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:29:08]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:29:11]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:29:11]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:29:11]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:29:13]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:29:13]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:29:13]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:29:13]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:29:13]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:29:13]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:29:14]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:31:56]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.24
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.66
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.59
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:31:57]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:31:59]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:31:59]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:31:59]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:32:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:32:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:32:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.244%2F10.1.1.171+icmp_pv+DOWN%21%21
+[2016-03-11 17:32:04]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.243%2F10.1.1.170+icmp_pv+DOWN%21%21
+[2016-03-11 17:32:05]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:34:11]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.63
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.14
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.64
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:34:12]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:34:14]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:34:14]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:34:14]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:34:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:34:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:34:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.244%2F10.1.1.171+icmp_pv+DOWN%21%21
+[2016-03-11 17:34:19]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.243%2F10.1.1.170+icmp_pv+DOWN%21%21
+[2016-03-11 17:34:19]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:35:34]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.98
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.59
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.69
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:35:35]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:35:38]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:35:38]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:35:38]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:35:40]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:35:40]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:35:40]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.243%2F10.1.1.170+icmp_pv+DOWN%21%21
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.244%2F10.1.1.171+icmp_pv+DOWN%21%21
+[2016-03-11 17:35:43]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-11 17:35:43]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:40:55]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:40:55]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.43
+[2016-03-11 17:40:55]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.06
+[2016-03-11 17:40:55]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:13 - 121.78.239.244 icmp UP!!
+[2016-03-11 17:40:55]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.66
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 40010 UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:13 - 121.78.239.244 8899 UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:40:56]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:40:58]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:40:58]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:40:58]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:41:01]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:41:01]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:41:01]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:13 - 121.78.239.244 icmp_pv DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:13 - 121.78.239.244 icmp_pv is DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.243%2F10.1.1.170+icmp_pv+DOWN%21%21
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.244%2F10.1.1.171+icmp_pv+DOWN%21%21
+[2016-03-11 17:41:03]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-11 17:41:04]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:42:31]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:42:31]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.15
+[2016-03-11 17:42:31]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:42:31]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.63
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:42:32]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:42:34]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:42:34]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:42:37]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:42:37]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:42:39]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:42:39]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:42:39]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:42:39]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:42:39]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.243%2F10.1.1.170+icmp_pv+DOWN%21%21
+[2016-03-11 17:42:39]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-11 17:42:40]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:44:16]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:44:16]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.08
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.64
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:44:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:44:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:44:19]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:44:22]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:44:22]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:44:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:44:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:44:24]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:44:24]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:44:24]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.243%2F10.1.1.170+icmp_pv+DOWN%21%21
+[2016-03-11 17:44:24]  INFO (Detail.InDetailServer - sendMessage:384) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-11 17:44:25]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:49:28]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.75
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.57
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:49:29]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:49:32]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:49:32]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:49:34]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:49:34]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:49:37]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:49:37]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:49:37]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:49:37]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:49:37]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:50:01]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.69
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.57
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:50:02]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:50:04]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:50:05]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:50:07]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:50:07]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:50:09]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:50:09]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:50:10]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:50:10]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:50:10]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:52:20]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.14
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.56
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:52:21]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:52:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:52:24]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:52:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:52:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:52:29]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:52:29]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:52:29]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:52:29]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:52:29]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 17:57:44]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - getLoadInfo:86) - 2.22
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.58
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 17:57:45]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 17:57:48]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:57:48]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:57:50]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:57:50]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:57:53]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 17:57:53]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 17:57:53]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 17:57:53]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 17:57:53]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:01:15]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:01:15]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.8
+[2016-03-11 18:01:15]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:01:15]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:01:15]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:01:15]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:01:15]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.63
+[2016-03-11 18:01:16]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:01:16]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:01:16]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:01:16]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:01:18]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:01:18]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:01:20]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:01:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:01:23]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:01:23]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:01:23]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:01:23]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:01:23]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:02:20]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.56
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.7
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:02:20]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:02:21]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:02:21]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:02:21]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:02:23]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:02:23]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:02:25]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:02:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:02:28]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:02:28]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:02:28]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:02:28]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:02:28]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:03:41]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.48
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.7
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:03:42]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:03:44]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:03:45]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:03:47]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:03:47]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:03:49]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:03:49]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:03:50]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:03:50]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:03:50]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:04:24]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.63
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.67
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:04:25]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:04:26]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:04:26]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:04:26]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:04:28]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:04:28]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:04:30]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:04:31]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:04:33]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:04:33]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:04:33]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:04:33]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:04:33]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:05:02]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:05:02]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.65
+[2016-03-11 18:05:02]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.62
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:05:03]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:05:05]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:06]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:08]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:08]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:10]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:10]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:05:11]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:11]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:05:11]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:05:42]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.59
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.6
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:05:43]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:05:45]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:45]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:48]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:48]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:50]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:05:50]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:05:50]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:05:50]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:05:50]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:06:16]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.67
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.62
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:06:17]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:06:20]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:06:20]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:06:22]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:06:22]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:06:25]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:06:25]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:06:25]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:06:25]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:06:25]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:08:27]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:08:27]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.6
+[2016-03-11 18:08:27]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:08:27]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:08:27]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:08:27]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:08:28]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.75
+[2016-03-11 18:08:28]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:08:28]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:08:28]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:08:28]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:08:30]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:08:30]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:08:32]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:08:33]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:08:35]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:08:35]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:08:35]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:08:35]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:08:36]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 18:09:36]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 18:09:36]  INFO (Detail.InDetailServer - getLoadInfo:86) - 1.52
+[2016-03-11 18:09:36]  INFO (Detail.InDetailServer - getLoadInfo:86) - 0.72
+[2016-03-11 18:09:36]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:12 - 121.78.239.243 icmp UP!!
+[2016-03-11 18:09:36]  INFO (Detail.InDetailServer - icmpCheck:289) - ThreadId:11 - 121.78.239.242 icmp UP!!
+[2016-03-11 18:09:37]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:09:37]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:09:37]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 40010 UP!!
+[2016-03-11 18:09:37]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 40010 UP!!
+[2016-03-11 18:09:37]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:11 - 121.78.239.242 80 UP!!
+[2016-03-11 18:09:37]  INFO (Detail.InDetailServer - openPortCheck:352) - ThreadId:12 - 121.78.239.243 9021 UP!!
+[2016-03-11 18:09:39]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:09:39]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:09:42]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:09:42]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:09:44]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:11 - 121.78.239.242 icmp_pv DOWN!!
+[2016-03-11 18:09:44]  INFO (Detail.InDetailServer - icmpCheck:297) - ThreadId:12 - 121.78.239.243 icmp_pv DOWN!!
+[2016-03-11 18:09:44]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:12 - 121.78.239.243 icmp_pv is DOWN!!
+[2016-03-11 18:09:44]  INFO (Detail.InDetailServer - downCheck:193) - ThreadId:11 - 121.78.239.242 icmp_pv is DOWN!!
+[2016-03-11 18:09:45]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 19:58:01]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 19:58:04]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 19:59:01]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 19:59:04]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 20:00:15]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.60
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.36
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.81
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.75
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.59
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.04
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.33
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.84
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.82
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.74
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.03
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.22
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.36
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.83
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.85
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.28
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 4.61
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.98
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.26
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.21
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.18
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.52
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.02
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.89
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.21
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.63
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.46
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.87
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.09
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.01
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.60
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.85
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.96
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.02
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.44
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.72
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.41
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.04
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.94
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.09
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.33
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.50
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.98
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.87
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.19
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.79
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.74
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.06
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.86
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.23
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.98
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.33
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.59
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.31
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.65
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.60
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.92
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.79
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.59
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.17
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.43
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.81
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.04
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 3.29
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.12
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.39
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.81
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.25
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.05
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.46
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.97
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 3.23
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.76
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.07
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.45
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.18
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.22
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.50
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.90
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.02
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.56
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.30
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.75
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.72
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.23
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.06
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.31
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.54
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.02
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.23
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.60
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.73
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.21
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.76
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.53
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.45
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.39
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.27
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.89
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.43
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.21
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.77
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.21
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 3.10
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.79
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.80
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.27
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.34
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.18
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.33
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.37
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.42
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.11
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.52
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.81
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.12
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.59
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.10
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.68
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.69
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.77
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.43
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.07
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.03
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.50
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.61
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.81
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.07
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.68
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.97
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.59
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.59
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.62
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.32
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.20
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.17
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.13
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.29
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.13
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.93
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.28
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.78
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.56
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.67
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.62
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.85
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.64
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.49
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.44
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.96
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.39
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.80
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.06
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.05
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.79
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.06
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.07
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.31
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.49
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.58
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.67
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.27
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.64
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.53
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.04
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.91
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.39
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.09
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.73
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.73
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.77
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.05
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.15
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.02
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.29
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.23
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.26
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.39
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.06
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.52
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.69
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.21
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.70
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.27
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.93
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.01
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.91
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.89
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.65
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.67
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.32
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.94
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.01
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.52
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.05
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.71
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.16
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.12
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.16
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.93
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.08
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.69
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.57
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.15
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 3.57
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.76
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.55
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.39
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.73
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 0.60
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.16
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.00
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 1.05
+[2016-03-11 20:00:16]  INFO (Detail.InDetailServer - getLoadInfo:75) - 1.3.6.1.4.1.2021.10.1.3.2 = 2.28
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:17]  INFO (Detail.InDetailServer - getLoadInfo:75) - ERROR
+[2016-03-11 20:00:18]  INFO (startMon.StartMonitor - main:79) - End IP Check.
+[2016-03-11 20:02:20]  INFO (startMon.StartMonitor - main:21) - Start IP Check.
+[2016-03-11 20:02:23]  INFO (startMon.StartMonitor - main:79) - End IP Check.

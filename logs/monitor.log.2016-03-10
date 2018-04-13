@@ -1,0 +1,1154 @@
+[2016-03-10 13:12:57]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:12:58]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:14:03]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:14:04]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:16:55]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:16:55]  INFO (Detail.InDetailServer - detailCheck:53) - 2
+[2016-03-10 13:17:01]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:17:27]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:17:28]  INFO (Detail.InDetailServer - detailCheck:54) - 2
+[2016-03-10 13:17:28]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:17:55]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:17:56]  INFO (Detail.InDetailServer - detailCheck:54) - 
+[2016-03-10 13:18:02]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:18:18]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:18:19]  INFO (Detail.InDetailServer - detailCheck:54) - 
+[2016-03-10 13:18:25]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:19:27]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:19:27]  INFO (Detail.InDetailServer - detailCheck:54) - 
+[2016-03-10 13:19:34]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:19:54]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:19:55]  INFO (Detail.InDetailServer - icmpCheck:177) - 1
+[2016-03-10 13:19:55]  INFO (Detail.InDetailServer - icmpCheck:177) - 1
+[2016-03-10 13:19:55]  INFO (Detail.InDetailServer - detailCheck:54) - 
+[2016-03-10 13:19:57]  INFO (Detail.InDetailServer - icmpCheck:177) - 1
+[2016-03-10 13:19:58]  INFO (Detail.InDetailServer - icmpCheck:177) - 1
+[2016-03-10 13:20:00]  INFO (Detail.InDetailServer - icmpCheck:177) - 1
+[2016-03-10 13:20:01]  INFO (Detail.InDetailServer - icmpCheck:177) - 1
+[2016-03-10 13:20:01]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:21:06]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:21:07]  INFO (Detail.InDetailServer - detailCheck:52) - icmp
+[2016-03-10 13:21:07]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:22:02]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:22:03]  INFO (Detail.InDetailServer - detailCheck:52) - size30icmp1null
+[2016-03-10 13:22:03]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:23:04]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:23:05]  INFO (Detail.InDetailServer - detailCheck:52) - size30icmp1null
+[2016-03-10 13:23:10]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:24:25]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:24:26]  INFO (Detail.InDetailServer - detailCheck:37) - 0
+[2016-03-10 13:24:31]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:24:47]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:24:47]  INFO (Detail.InDetailServer - detailCheck:37) - 0
+[2016-03-10 13:24:47]  INFO (Detail.InDetailServer - detailCheck:54) - 3
+[2016-03-10 13:24:52]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:25:13]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:25:13]  INFO (Detail.InDetailServer - detailCheck:37) - 0
+[2016-03-10 13:25:13]  INFO (Detail.InDetailServer - detailCheck:54) - 3
+[2016-03-10 13:25:13]  INFO (Detail.InDetailServer - detailCheck:65) - icmp
+[2016-03-10 13:25:18]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:27:40]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:27:40]  INFO (Detail.InDetailServer - detailCheck:37) - 0
+[2016-03-10 13:27:41]  INFO (Detail.InDetailServer - detailCheck:55) - 3
+[2016-03-10 13:27:41]  INFO (Detail.InDetailServer - detailCheck:66) - icmp
+[2016-03-10 13:27:46]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:28:29]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:28:30]  INFO (Detail.InDetailServer - detailCheck:37) - 0
+[2016-03-10 13:28:30]  INFO (Detail.InDetailServer - detailCheck:55) - 3
+[2016-03-10 13:28:30]  INFO (Detail.InDetailServer - detailCheck:66) - icmp,40010,80
+[2016-03-10 13:28:35]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:29:24]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:29:25]  INFO (Detail.InDetailServer - detailCheck:51) - 3
+[2016-03-10 13:29:25]  INFO (Detail.InDetailServer - detailCheck:62) - icmp,40010,80
+[2016-03-10 13:29:30]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:29:41]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:29:42]  INFO (Detail.InDetailServer - detailCheck:51) - 3
+[2016-03-10 13:29:42]  INFO (Detail.InDetailServer - detailCheck:62) - icmp,40010,80
+[2016-03-10 13:29:42]  INFO (Detail.InDetailServer - detailCheck:65) - hi
+[2016-03-10 13:29:47]  INFO (startMon.StartMonitor - main:76) - End IP Check.
+[2016-03-10 13:34:24]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 13:34:25]  INFO (Detail.InDetailServer - detailCheck:51) - 3
+[2016-03-10 13:34:25]  INFO (Detail.InDetailServer - detailCheck:62) - icmp,40010,80
+[2016-03-10 13:34:25]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:11:48]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:11:48]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:11:48]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:13:06]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:13:06]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:13:07]  INFO (Detail.InDetailServer - dbUpdate:246) - icmp,40010
+[2016-03-10 14:13:07]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:16:06]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:16:06]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:16:06]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp,40010,80
+[2016-03-10 14:16:06]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:24:31]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - 40010
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - 80
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - 40010
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - 80
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - 40010
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:256) - 80
+[2016-03-10 14:24:31]  INFO (Detail.InDetailServer - dbUpdate:259) - icmp,icmp,40010,80
+[2016-03-10 14:24:31]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:26:49]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 1111
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 2222
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 40010
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 80
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 1111
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 2222
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 40010
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 80
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 1111
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 2222
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - icmp_pv
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 40010
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 80
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 1111
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:256) - 2222
+[2016-03-10 14:26:49]  INFO (Detail.InDetailServer - dbUpdate:259) - icmp,icmp,40010,80
+[2016-03-10 14:26:49]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:30:37]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:30:37]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 14:30:38]  INFO (Detail.InDetailServer - dbUpdate:263) - icmp,icmp,40010,80
+[2016-03-10 14:30:38]  INFO (Detail.InDetailServer - dbUpdate:264) - 40010,80,1111,2222,3333,icmp,icmp_pv,80,1111,2222,3333,icmp,icmp_pv,40010,1111,2222,3333
+[2016-03-10 14:30:38]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:31:51]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:31:52]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 14:31:52]  INFO (Detail.InDetailServer - dbUpdate:261) - icmp,icmp,40010,80
+[2016-03-10 14:31:52]  INFO (Detail.InDetailServer - dbUpdate:262) - icmp,icmp,icmp_pv,icmp_pv,40010,40010,80,80,1111,1111,1111,2222,2222,2222,3333,3333,3333
+[2016-03-10 14:31:52]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:32:17]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:32:18]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:32:18]  INFO (Detail.InDetailServer - dbUpdate:257) - icmp,icmp,40010,80
+[2016-03-10 14:32:18]  INFO (Detail.InDetailServer - dbUpdate:258) - icmp,icmp,icmp_pv,icmp_pv,40010,40010,80,80,1111,1111,1111,2222,2222,2222,3333,3333,3333
+[2016-03-10 14:32:18]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:35:26]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:35:27]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:35:27]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:37:00]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:37:00]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:37:00]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:37:18]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:37:18]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:37:18]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:37:32]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:37:32]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:37:32]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:39:10]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:39:10]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:39:10]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:40:45]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:40:45]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:40:46]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:41:19]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:41:20]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:41:20]  INFO (Detail.InDetailServer - dbUpdate:239) - 
+[2016-03-10 14:41:20]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:41:55]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:41:56]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:41:56]  INFO (Detail.InDetailServer - dbUpdate:239) - 
+[2016-03-10 14:41:56]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:42:34]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:42:34]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:42:34]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:42:46]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:42:47]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:42:47]  INFO (Detail.InDetailServer - dbUpdate:262) - 
+[2016-03-10 14:42:47]  INFO (Detail.InDetailServer - dbUpdate:263) - 
+[2016-03-10 14:42:47]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:43:48]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:43:48]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:43:48]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:43:48]  INFO (Detail.InDetailServer - dbUpdate:271) - 
+[2016-03-10 14:43:48]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:44:31]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:44:31]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:44:31]  INFO (Detail.InDetailServer - dbUpdate:269) - icmp,40010,80,icmp
+[2016-03-10 14:44:31]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,icmp,40010,40010,80,80,icmp_pv,icmp_pv
+[2016-03-10 14:44:31]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:45:59]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:45:59]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:45:59]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:46:50]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:46:50]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:46:50]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:47:04]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:47:05]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:47:05]  INFO (Detail.InDetailServer - dbUpdate:273) - icmp,40010,80,icmp
+[2016-03-10 14:47:05]  INFO (Detail.InDetailServer - dbUpdate:274) - icmp,icmp
+[2016-03-10 14:47:05]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:50:47]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:50:47]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:50:47]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:50:47]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp,icmp,icmp_pv,icmp_pv,icmp_pv,40010,40010,80,80,111,111,111,222,222,222,333,333,333,444,444,444
+[2016-03-10 14:50:47]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:51:30]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:51:30]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:51:30]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:51:30]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp
+[2016-03-10 14:51:30]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:51:47]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:51:47]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:51:47]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:51:47]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp
+[2016-03-10 14:51:47]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:52:42]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:52:42]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:52:42]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:52:42]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp,icmp
+[2016-03-10 14:52:42]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:52:47]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:52:48]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:52:48]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:52:48]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp
+[2016-03-10 14:52:48]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:53:08]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:53:08]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:53:08]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:53:08]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp
+[2016-03-10 14:53:08]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:53:51]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:53:52]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:53:52]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 14:53:52]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp
+[2016-03-10 14:53:52]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:57:04]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:57:04]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:57:04]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:57:33]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:57:33]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:57:33]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp,40010,80
+[2016-03-10 14:57:33]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp
+[2016-03-10 14:57:33]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 14:59:45]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 14:59:46]  INFO (Detail.InDetailServer - detailCheck:36) - 121.78.239.242
+[2016-03-10 14:59:46]  INFO (Detail.InDetailServer - dbUpdate:252) - icmp,40010,80
+[2016-03-10 14:59:46]  INFO (Detail.InDetailServer - dbUpdate:253) - 
+[2016-03-10 14:59:46]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:06:04]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:258) - icmp_pv
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:258) - 111
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:258) - 222
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:258) - 333
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:258) - 444
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:261) - icmp,40010,80
+[2016-03-10 15:06:05]  INFO (Detail.InDetailServer - dbUpdate:262) - 
+[2016-03-10 15:06:05]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:13:06]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:13:07]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:13:07]  INFO (Detail.InDetailServer - dbUpdate:265) - icmp,40010,80
+[2016-03-10 15:13:07]  INFO (Detail.InDetailServer - dbUpdate:266) - icmp_pv,111,222,333,444
+[2016-03-10 15:13:07]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:21:08]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:21:08]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:21:08]  INFO (Detail.InDetailServer - dbUpdate:267) - 
+[2016-03-10 15:21:08]  INFO (Detail.InDetailServer - dbUpdate:268) - icmp_pv,111,222,333,444
+[2016-03-10 15:21:08]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:22:37]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:22:38]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:22:38]  INFO (Detail.InDetailServer - dbUpdate:269) - 
+[2016-03-10 15:22:38]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp_pv,111,222,333,444
+[2016-03-10 15:22:38]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:23:26]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 40010
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 40010
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:270) - 
+[2016-03-10 15:23:26]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp_pv,111,222,333,444
+[2016-03-10 15:23:26]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:23:39]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 40010
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 40010
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:270) - 
+[2016-03-10 15:23:40]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp_pv,111,222,333,444
+[2016-03-10 15:23:40]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:24:48]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 40010
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 40010
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,40010,80
+[2016-03-10 15:24:48]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp_pv,111,222,333,444
+[2016-03-10 15:24:48]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:25:28]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - detailCheck:37) - 121.78.239.242
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - icmp_pv
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 80
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 111
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 222
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 333
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:248) - 444
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:270) - icmp,80
+[2016-03-10 15:25:28]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp_pv,111,222,333,444
+[2016-03-10 15:25:28]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:48:54]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:48:54]  INFO (Detail.InDetailServer - detailCheck:39) - 121.78.239.242
+[2016-03-10 15:48:54]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp,80
+[2016-03-10 15:48:54]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp_pv,111,222,333,444
+[2016-03-10 15:48:54]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212null&NUM1=01048801480&NUM2=01048132806&NUM3=01087481567&NUM4=01083652781&NUM5=01032044012&NUM6=01087576228&MSG=message test
+[2016-03-10 15:48:54]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:49:26]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:49:26]  INFO (Detail.InDetailServer - detailCheck:39) - 121.78.239.242
+[2016-03-10 15:49:26]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp,80
+[2016-03-10 15:49:26]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp_pv,111,222,333,444
+[2016-03-10 15:49:26]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212null&NUM1=01048801480&MSG=message test
+[2016-03-10 15:49:26]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:49:55]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:49:55]  INFO (Detail.InDetailServer - detailCheck:39) - 121.78.239.242
+[2016-03-10 15:49:55]  INFO (Detail.InDetailServer - dbUpdate:271) - icmp,80
+[2016-03-10 15:49:55]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp_pv,111,222,333,444
+[2016-03-10 15:49:55]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=message test
+[2016-03-10 15:49:55]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:57:02]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:57:03]  INFO (Detail.InDetailServer - detailCheck:40) - 121.78.239.242
+[2016-03-10 15:57:03]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp,80
+[2016-03-10 15:57:03]  INFO (Detail.InDetailServer - dbUpdate:273) - icmp_pv,111,222,333,444
+[2016-03-10 15:57:03]  INFO (Detail.InDetailServer - sendMessage:310) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=message test
+[2016-03-10 15:57:03]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 15:59:34]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 15:59:35]  INFO (Detail.InDetailServer - detailCheck:40) - 121.78.239.242
+[2016-03-10 15:59:35]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp,80
+[2016-03-10 15:59:35]  INFO (Detail.InDetailServer - dbUpdate:273) - icmp_pv,111,222,333,444
+[2016-03-10 15:59:35]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=message test
+[2016-03-10 15:59:35]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:00:25]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:00:25]  INFO (Detail.InDetailServer - detailCheck:40) - 121.78.239.242
+[2016-03-10 16:00:25]  INFO (Detail.InDetailServer - dbUpdate:272) - icmp,40010,80
+[2016-03-10 16:00:25]  INFO (Detail.InDetailServer - dbUpdate:273) - icmp_pv,111,222,333,444
+[2016-03-10 16:00:25]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=[MON]121.78.239.242/10.1.1.169 icmp,40010,80 UP!!
+[2016-03-10 16:00:25]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:11:20]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:11:20]  INFO (Detail.InDetailServer - detailCheck:40) - 121.78.239.242
+[2016-03-10 16:11:20]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=[MON]121.78.239.242/10.1.1.169　icmp,40010,80　UP!!
+[2016-03-10 16:11:20]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:11:50]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:11:50]  INFO (Detail.InDetailServer - detailCheck:40) - 121.78.239.242
+[2016-03-10 16:11:50]  INFO (Detail.InDetailServer - sendMessage:309) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=[MON]121.78.239.242/10.1.1.169icmp,40010,80UP!!
+[2016-03-10 16:11:50]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:18:08]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:18:09]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:18:09]  INFO (Detail.InDetailServer - sendMessage:318) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169icmp%2C40010%2C80UP%21%21
+[2016-03-10 16:18:09]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:18:33]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:18:33]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:18:33]  INFO (Detail.InDetailServer - sendMessage:318) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+null+UP%21%21
+[2016-03-10 16:18:33]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:20:03]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:20:04]  INFO (Detail.InDetailServer - detailCheck:41) - 121.78.239.242
+[2016-03-10 16:20:04]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:20:32]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:20:32]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:20:32]  INFO (Detail.InDetailServer - sendMessage:318) - http%3A%2F%2Fmrtg.kgrid.co.kr%3A1105%2Fsms_send_oper.php%3FS_NUM%3D0221877212%26NUM1%3D01048801480%26MSG%3D%5BMON%5D121.78.239.242%2F10.1.1.169+null+UP%21%21
+[2016-03-10 16:20:32]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:22:00]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:22:00]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:22:00]  INFO (Detail.InDetailServer - dbUpdate:274) - icmp,40010,80
+[2016-03-10 16:22:00]  INFO (Detail.InDetailServer - dbUpdate:275) - icmp_pv,111,222,333,444
+[2016-03-10 16:22:00]  INFO (Detail.InDetailServer - sendMessage:319) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp%2C40010%2C80+UP%21%21
+[2016-03-10 16:22:00]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:29:17]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:29:18]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:29:22]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:30:48]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:30:48]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:30:52]  INFO (Detail.InDetailServer - sendMessage:326) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+null+UP%21%21
+[2016-03-10 16:30:52]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:31:43]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:31:43]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:31:47]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:37:35]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:37:35]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:37:35]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:37:38]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:37:39]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:37:39]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:38:05]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:38:05]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:38:05]  INFO (Detail.InDetailServer - detailCheck:65) - 1
+[2016-03-10 16:38:05]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:38:36]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:38:36]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:38:36]  INFO (Detail.InDetailServer - detailCheck:65) - 1 0
+[2016-03-10 16:38:36]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:39:41]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:39:41]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:39:42]  INFO (Detail.InDetailServer - detailCheck:65) - 1 3
+[2016-03-10 16:39:42]  INFO (Detail.InDetailServer - detailCheck:67) - 1//0
+[2016-03-10 16:39:43]  INFO (Detail.InDetailServer - portCheck:217) - 111
+[2016-03-10 16:39:44]  INFO (Detail.InDetailServer - detailCheck:67) - 2//1
+[2016-03-10 16:39:45]  INFO (Detail.InDetailServer - portCheck:217) - 111
+[2016-03-10 16:39:47]  INFO (Detail.InDetailServer - detailCheck:67) - 3//2
+[2016-03-10 16:39:48]  INFO (Detail.InDetailServer - portCheck:217) - 111
+[2016-03-10 16:39:49]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:52:02]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:52:03]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:52:10]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:52:35]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:52:36]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:52:43]  INFO (Detail.InDetailServer - detailCheck:88) - icmp_pv
+[2016-03-10 16:52:43]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 16:53:19]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 16:53:19]  INFO (Detail.InDetailServer - detailCheck:42) - 121.78.239.242
+[2016-03-10 16:53:27]  INFO (Detail.InDetailServer - detailCheck:88) - 121.78.239.242icmp_pv DOWN
+[2016-03-10 16:53:27]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:02:30]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:02:38]  INFO (Detail.InDetailServer - detailCheck:87) - 121.78.239.242 icmp_pv DOWN
+[2016-03-10 17:02:38]  INFO (Detail.InDetailServer - sendMessage:334) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-10 17:02:38]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:11:11]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:11:12]  INFO (Detail.InDetailServer - sendMessage:339) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp%2C40010%2C80+UP%21%21
+[2016-03-10 17:11:19]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:11:51]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:11:51]  INFO (Detail.InDetailServer - sendMessage:339) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp%2C40010%2C80+UP%21%21
+[2016-03-10 17:11:59]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:13:19]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:13:28]  INFO (Detail.InDetailServer - detailCheck:89) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:13:28]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:15:07]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:15:07]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:15:48]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:15:56]  INFO (Detail.InDetailServer - detailCheck:88) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:15:56]  INFO (Detail.InDetailServer - detailCheck:95) - 121.78.239.242 icmp_pv/icmp_pv,111,222,333,444 DOWN
+[2016-03-10 17:15:56]  INFO (Detail.InDetailServer - sendMessage:342) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-10 17:15:57]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:25:03]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:25:03]  INFO (Detail.InDetailServer - sendMessage:355) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp%2C40010%2C80+UP%21%21
+[2016-03-10 17:25:11]  INFO (Detail.InDetailServer - detailCheck:90) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:25:11]  INFO (Detail.InDetailServer - detailCheck:108) - 121.78.239.242 icmp_pv/icmp_pv,111,222,333,444icmp_pv/111,222,333,444icmp_pv,icmp_pv DOWN
+[2016-03-10 17:25:11]  INFO (Detail.InDetailServer - sendMessage:355) - http://mrtg.kgrid.co.kr:1105/sms_send_oper.php?S_NUM=0221877212&NUM1=01048801480&MSG=%5BMON%5D121.78.239.242%2F10.1.1.169+icmp_pv+DOWN%21%21
+[2016-03-10 17:25:11]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:27:04]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:27:12]  INFO (Detail.InDetailServer - detailCheck:90) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:27:12]  INFO (Detail.InDetailServer - detailCheck:108) - 121.78.239.242 icmp_pv/icmp_pvicmp_pv/icmp_pvicmp_pv DOWN
+[2016-03-10 17:27:12]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:30:50]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:30:58]  INFO (Detail.InDetailServer - detailCheck:90) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:47:05]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:47:13]  INFO (Detail.InDetailServer - detailCheck:90) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:50:35]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:50:43]  INFO (Detail.InDetailServer - detailCheck:90) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:50:43]  INFO (Detail.InDetailServer - detailCheck:113) - 121.78.239.242 icmp_pv/icmp_pv,111,222,333,444,icmp_pv/111,222,333,444,icmp_pv DOWN
+[2016-03-10 17:50:43]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:52:06]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:52:14]  INFO (Detail.InDetailServer - detailCheck:90) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 17:52:14]  INFO (Detail.InDetailServer - detailCheck:113) - 121.78.239.242 icmp_pv/icmp_pv,111,222,333,444,icmp_pv/111,222,333,444,icmp_pv DOWN
+[2016-03-10 17:52:14]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 17:55:47]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '14.49.39.166' and rack = '165'
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:109) - 14.49.39.166 icmp DOWN
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.143' and rack = '166'
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.143 icmp DOWN
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.140' and rack = '166'
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.140 icmp DOWN
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.145' and rack = '167'
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.145 icmp DOWN
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.141' and rack = '166'
+[2016-03-10 17:56:05]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.141 icmp DOWN
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.144' and rack = '166'
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.144 icmp DOWN
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.136' and rack = '166'
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.136 icmp DOWN
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '110.45.190.120' and rack = '165'
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:109) - 110.45.190.120 icmp DOWN
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.205' and rack = '144'
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.205 icmp DOWN
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.142' and rack = '166'
+[2016-03-10 17:56:06]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.142 icmp DOWN
+[2016-03-10 17:56:07]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.137' and rack = '166'
+[2016-03-10 17:56:07]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.137 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.152' and rack = '167'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.152 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.154' and rack = '167'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.154 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.146' and rack = '167'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.146 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.153' and rack = '167'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.153 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.149' and rack = '167'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.149 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = 'zone0_vip' and rack = '140'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.148' and rack = '167'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.148 icmp DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - zone0_vip icmp_pv DOWN
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.135' and rack = '166'
+[2016-03-10 17:56:08]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.135 icmp DOWN
+[2016-03-10 17:56:09]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.151' and rack = '167'
+[2016-03-10 17:56:09]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.151 icmp DOWN
+[2016-03-10 17:56:09]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '117.52.73.147' and rack = '167'
+[2016-03-10 17:56:09]  INFO (Detail.InDetailServer - detailCheck:109) - 117.52.73.147 icmp DOWN
+[2016-03-10 17:56:10]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.45' and rack = '143'
+[2016-03-10 17:56:10]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.45 icmp DOWN
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.143' and rack = '158'
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.143 icmp,icmp_pv DOWN
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.154' and rack = '157'
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.154 icmp,icmp_pv DOWN
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.194' and rack = '162'
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.194 icmp,icmp_pv DOWN
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.23' and rack = '139'
+[2016-03-10 17:56:16]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.23 icmp,icmp_pv DOWN
+[2016-03-10 17:56:17]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.22' and rack = '139'
+[2016-03-10 17:56:17]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.22 icmp,icmp_pv DOWN
+[2016-03-10 17:56:17]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.243.206' and rack = '172'
+[2016-03-10 17:56:17]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.243.206 icmp,icmp_pv DOWN
+[2016-03-10 17:56:17]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.12' and rack = '163'
+[2016-03-10 17:56:17]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.12 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.201' and rack = '162'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.201 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.195' and rack = '162'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.195 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.17' and rack = '163'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.17 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.211' and rack = '144'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.211 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.119' and rack = '154'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.119 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.101' and rack = '153'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.101 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.31' and rack = '140'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.31 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.210' and rack = '163'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.200' and rack = '142'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.210 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.200 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.205' and rack = '161'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.205 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.140' and rack = '159'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.140 icmp,icmp_pv DOWN
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.149' and rack = '158'
+[2016-03-10 17:56:18]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.149 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.208' and rack = '161'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.208 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.232' and rack = '150'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.98' and rack = '153'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.232 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.98 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.215' and rack = '163'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.215 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.156' and rack = '157'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.156 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.43' and rack = '141'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.43 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.19' and rack = '139'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.19 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.36' and rack = '155'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.36 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.248' and rack = '136'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.248 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.11' and rack = '140'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.11 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.197' and rack = '143'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.243' and rack = '136'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.197 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.243 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.109' and rack = '154'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.109 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.246' and rack = '152'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.246 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.5' and rack = '140'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.5 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.102' and rack = '153'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.102 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.251' and rack = '142'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.251 icmp,icmp_pv DOWN
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.197' and rack = '162'
+[2016-03-10 17:56:19]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.197 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.250' and rack = '142'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.250 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.213' and rack = '163'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.213 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.26' and rack = '140'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.26 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.118' and rack = '154'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.118 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.8' and rack = '160'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.236' and rack = '151'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.8 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.236 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.222' and rack = '163'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.222 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.200' and rack = '162'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.200 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.243.205' and rack = '172'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.243.205 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.18' and rack = '139'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.37' and rack = '141'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.18 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.37 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.144' and rack = '158'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.144 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.207' and rack = '161'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.207 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.54' and rack = '164'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.54 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.57' and rack = '155'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.57 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.205' and rack = '146'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.205 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.201' and rack = '142'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.201 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.208' and rack = '144'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.208 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.35' and rack = '141'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.35 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.216' and rack = '149'
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.216 icmp,icmp_pv DOWN
+[2016-03-10 17:56:20]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.208' and rack = '146'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.208 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.11' and rack = '163'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.11 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.146' and rack = '158'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.146 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.145' and rack = '158'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.33' and rack = '141'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.35' and rack = '155'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.33 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.35 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.145 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.211' and rack = '148'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.198' and rack = '142'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.242' and rack = '152'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.202' and rack = '161'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.198 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.242 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.202 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.211 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.195' and rack = '143'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.195 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.206' and rack = '161'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.206 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.212' and rack = '148'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.212 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.209' and rack = '144'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.209 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.232' and rack = '138'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.232 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.207' and rack = '144'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.207 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.147' and rack = '158'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.147 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.38' and rack = '141'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.38 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.204' and rack = '146'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.204 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.137' and rack = '159'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.137 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.199' and rack = '142'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.199 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.202' and rack = '142'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.202 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.39' and rack = '155'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.39 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.19' and rack = '163'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.19 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.218' and rack = '163'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.218 icmp,icmp_pv DOWN
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.39' and rack = '141'
+[2016-03-10 17:56:21]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.39 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.106' and rack = '154'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.106 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.200' and rack = '148'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.239' and rack = '151'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.100' and rack = '153'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.200 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.100 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.239 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.211' and rack = '163'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.211 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.233' and rack = '151'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.233 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.46' and rack = '143'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.46 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.41' and rack = '155'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.41 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.236' and rack = '137'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.236 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.206' and rack = '146'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.206 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.113' and rack = '154'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.113 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.203' and rack = '146'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.203 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.214' and rack = '149'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.214 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.47' and rack = '156'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.47 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.135' and rack = '159'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.135 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.241' and rack = '152'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.241 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.196' and rack = '143'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.196 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.42' and rack = '156'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.42 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.37' and rack = '155'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.37 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.107' and rack = '154'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.241' and rack = '137'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.241 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.107 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.38' and rack = '155'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.38 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.195' and rack = '148'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.195 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.210' and rack = '146'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.210 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.36' and rack = '141'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.36 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.235' and rack = '151'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.235 icmp,icmp_pv DOWN
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.206' and rack = '144'
+[2016-03-10 17:56:22]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.206 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.21' and rack = '139'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.21 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.150' and rack = '157'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.150 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.148' and rack = '158'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.209' and rack = '161'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.148 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.209 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.6' and rack = '160'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.6 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.142' and rack = '159'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.142 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.40' and rack = '141'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.40 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.138' and rack = '159'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.138 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.237' and rack = '151'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.239' and rack = '137'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.237 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.239 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.227' and rack = '138'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.227 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.32' and rack = '141'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.32 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.226' and rack = '150'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.226 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.197' and rack = '148'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.13' and rack = '140'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.197 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.13 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.40' and rack = '155'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.155' and rack = '157'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.40 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.12' and rack = '140'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.155 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.12 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.245' and rack = '152'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.245 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.247' and rack = '136'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.203' and rack = '142'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.203 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.247 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.28' and rack = '140'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.28 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.110' and rack = '154'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.110 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.136' and rack = '159'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.136 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.10' and rack = '160'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.10 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.103' and rack = '153'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.103 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.234' and rack = '151'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.234 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.105' and rack = '154'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.105 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.231' and rack = '138'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.231 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.234' and rack = '138'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.234 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.30' and rack = '140'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.30 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.17' and rack = '139'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.46' and rack = '156'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.17 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.198' and rack = '148'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.46 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.198 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.199' and rack = '148'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.27' and rack = '140'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.15' and rack = '139'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.27 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.199 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.15 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.153' and rack = '157'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.243.202' and rack = '172'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.243.202 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.153 icmp,icmp_pv DOWN
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.235' and rack = '137'
+[2016-03-10 17:56:23]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.235 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.196' and rack = '162'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.7' and rack = '140'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.196 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.7 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.10' and rack = '140'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.10 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.207' and rack = '146'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.207 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.203' and rack = '161'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.203 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.9' and rack = '140'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.9 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.213' and rack = '149'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.213 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.228' and rack = '138'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.228 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.41' and rack = '141'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.24' and rack = '139'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.24 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.41 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.238' and rack = '137'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.238 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.108' and rack = '154'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.108 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.8' and rack = '140'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.237' and rack = '137'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.8 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.237 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.199' and rack = '162'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.199 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.245' and rack = '136'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.245 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.243.201' and rack = '172'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.243.201 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.20' and rack = '139'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.20 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.42' and rack = '141'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.16' and rack = '139'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.42 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.16 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.3' and rack = '140'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.3 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.51' and rack = '164'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.51 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.217' and rack = '149'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.217 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.214' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.214 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.204' and rack = '161'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.204 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.16' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.16 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.49' and rack = '164'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.49 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.217' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.99' and rack = '153'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.99 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.217 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.15' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.15 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.246' and rack = '136'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.246 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.13' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.13 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.221' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.221 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.9' and rack = '160'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.243.204' and rack = '172'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.9 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.243.204 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.198' and rack = '162'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.198 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.134' and rack = '160'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.134 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.152' and rack = '157'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.152 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.50' and rack = '164'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.50 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.225' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.225 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.151' and rack = '157'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.151 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.18' and rack = '163'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.18 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.228' and rack = '150'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.44' and rack = '143'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.44 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.228 icmp,icmp_pv DOWN
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.25' and rack = '139'
+[2016-03-10 17:56:24]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.25 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.224' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.224 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.139' and rack = '159'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.4' and rack = '140'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.139 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.120' and rack = '149'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.4 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.120 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.43' and rack = '156'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.43 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.53' and rack = '164'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.53 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.3' and rack = '160'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.104' and rack = '154'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.117' and rack = '154'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.117 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.3 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.104 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.238' and rack = '151'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.238 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.29' and rack = '140'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.29 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.6' and rack = '140'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.6 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.244' and rack = '136'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.218' and rack = '149'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.229' and rack = '138'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.114' and rack = '154'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.229 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.218 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.244 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.114 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.247' and rack = '152'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.247 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.229' and rack = '150'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.219' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.229 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.219 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.4' and rack = '160'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.4 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.7' and rack = '160'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.7 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.240' and rack = '137'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.223' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.44' and rack = '156'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.248.34' and rack = '141'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.48' and rack = '156'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.240 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.223 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.44 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.48 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.248.34 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.216' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.216 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.55' and rack = '164'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.45' and rack = '156'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.45 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.55 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.240' and rack = '152'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.240 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.231' and rack = '150'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.231 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.52' and rack = '164'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.52 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.230' and rack = '138'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.230 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.220' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.220 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.210' and rack = '144'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.233' and rack = '138'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.247.14' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.233 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.210 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.247.14 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.209' and rack = '146'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.209 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.238.212' and rack = '163'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.238.212 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.204' and rack = '139'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.204 icmp,icmp_pv DOWN
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.235.215' and rack = '149'
+[2016-03-10 17:56:25]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.235.215 icmp,icmp_pv DOWN
+[2016-03-10 17:56:26]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.249' and rack = '136'
+[2016-03-10 17:56:26]  INFO (Detail.InDetailServer - detailCheck:109) - 121.78.239.249 icmp,icmp_pv DOWN
+[2016-03-10 17:56:26]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 18:12:47]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 18:13:04]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 18:13:04]  INFO (Detail.InDetailServer - detailCheck:115) - 121.78.239.242 icmp_pv,1234 DOWN
+[2016-03-10 18:13:04]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 18:14:15]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 18:14:31]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 18:14:31]  INFO (Detail.InDetailServer - detailCheck:105) - null,icmp_pv,1234
+[2016-03-10 18:14:31]  INFO (Detail.InDetailServer - detailCheck:117) - 121.78.239.242 icmp_pv,1234 DOWN
+[2016-03-10 18:14:31]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 18:15:58]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 18:16:14]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 18:16:14]  INFO (Detail.InDetailServer - detailCheck:105) - null,icmp_pv,1234
+[2016-03-10 18:16:14]  INFO (Detail.InDetailServer - detailCheck:117) - 121.78.239.242 icmp_pv,1234 DOWN
+[2016-03-10 18:16:14]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:40:31]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:40:48]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:40:48]  INFO (Detail.InDetailServer - detailCheck:90) - nullafasdlkfsdjfklsdjf
+[2016-03-10 19:40:48]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:40:48]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234 DOWN
+[2016-03-10 19:40:48]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:43:09]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:43:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:43:25]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:43:25]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:43:25]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:43:25]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:44:38]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:44:54]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:44:54]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:44:54]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:44:54]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:44:54]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:46:33]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:46:36]  INFO (Detail.InDetailServer - dbUpdate:321) - 
+[2016-03-10 19:46:49]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:46:49]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:46:49]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:46:49]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:46:49]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:48:06]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:48:08]  INFO (Detail.InDetailServer - dbUpdate:321) - 
+[2016-03-10 19:48:22]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:48:22]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:48:22]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:48:22]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:48:22]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:52:25]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:52:28]  INFO (Detail.InDetailServer - dbUpdate:321) - 
+[2016-03-10 19:52:42]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:52:42]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:52:42]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:52:42]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:52:42]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:54:13]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:54:16]  INFO (Detail.InDetailServer - dbUpdate:321) - 
+[2016-03-10 19:54:30]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:54:30]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:54:30]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:54:30]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:54:30]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:55:09]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:55:12]  INFO (Detail.InDetailServer - dbUpdate:321) - 
+[2016-03-10 19:55:25]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:55:25]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:55:25]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:55:25]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:55:25]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 19:57:32]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 19:57:35]  INFO (Detail.InDetailServer - dbUpdate:321) - 
+[2016-03-10 19:57:49]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 19:57:49]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 19:57:49]  INFO (Detail.InDetailServer - detailCheck:106) - null,icmp_pv,1234
+[2016-03-10 19:57:49]  INFO (Detail.InDetailServer - detailCheck:118) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 19:57:49]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 20:00:18]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 20:00:21]  INFO (Detail.InDetailServer - dbUpdate:323) - 
+[2016-03-10 20:00:35]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 20:00:35]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 20:00:35]  INFO (Detail.InDetailServer - detailCheck:107) - null,icmp_pv,1234
+[2016-03-10 20:00:35]  INFO (Detail.InDetailServer - detailCheck:120) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv,null
+[2016-03-10 20:00:35]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 20:01:19]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 20:01:22]  INFO (Detail.InDetailServer - dbUpdate:323) - 
+[2016-03-10 20:01:35]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 20:01:35]  INFO (Detail.InDetailServer - detailCheck:90) - 
+[2016-03-10 20:01:35]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 20:02:20]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 20:02:23]  INFO (Detail.InDetailServer - dbUpdate:323) - 
+[2016-03-10 20:02:37]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 20:02:37]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 20:02:37]  INFO (Detail.InDetailServer - detailCheck:107) - 
+[2016-03-10 20:02:37]  INFO (Detail.InDetailServer - detailCheck:120) - 121.78.239.242 icmp_pv,1234//
+[2016-03-10 20:02:37]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 20:04:03]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 20:04:05]  INFO (Detail.InDetailServer - dbUpdate:319) - 
+[2016-03-10 20:04:19]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 20:04:19]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 20:04:19]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv,1234
+[2016-03-10 20:04:19]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv,1234//1234,icmp_pv
+[2016-03-10 20:04:19]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 20:04:49]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 20:04:53]  INFO (Detail.InDetailServer - dbUpdate:319) - 
+[2016-03-10 20:05:13]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 20:05:13]  INFO (Detail.InDetailServer - detailCheck:90) - null
+[2016-03-10 20:05:13]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv,1234,1111
+[2016-03-10 20:05:13]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv,1234,1111//1111,1234,icmp_pv
+[2016-03-10 20:05:13]  INFO (startMon.StartMonitor - main:77) - End IP Check.
+[2016-03-10 20:05:39]  INFO (startMon.StartMonitor - main:20) - Start IP Check.
+[2016-03-10 20:05:40]  INFO (Detail.InDetailServer - dbUpdate:319) - 
+[2016-03-10 20:05:47]  INFO (Detail.InDetailServer - detailCheck:86) - select down_port_no from monitor.ip where ip = '121.78.239.242' and rack = '136'
+[2016-03-10 20:05:47]  INFO (Detail.InDetailServer - detailCheck:90) - 
+[2016-03-10 20:05:47]  INFO (Detail.InDetailServer - detailCheck:103) - icmp_pv
+[2016-03-10 20:05:47]  INFO (Detail.InDetailServer - detailCheck:116) - 121.78.239.242 icmp_pv//icmp_pv
+[2016-03-10 20:05:47]  INFO (startMon.StartMonitor - main:77) - End IP Check.
